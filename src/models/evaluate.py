@@ -11,6 +11,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 import joblib
+import numpy as np
 import pandas as pd
 import yaml
 from sklearn.metrics import classification_report, f1_score, accuracy_score, precision_score, recall_score

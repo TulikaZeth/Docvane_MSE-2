@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-19T18:46:58.194969Z",
+  "timestamp": "2026-11-19T19:01:46.697578Z",
   "status": "success",
-  "psi_score": 6.4212,
+  "psi_score": 6.5219,
   "psi_threshold": 0.2,
   "drift_detected": true,
   "drift_level": "Significant Drift",
   "baseline_samples": 160,
-  "production_samples": 39,
+  "production_samples": 53,
   "baseline_mean_length": 643.91875,
-  "production_mean_length": 240.89743589743588
+  "production_mean_length": 215.49056603773585
 }
