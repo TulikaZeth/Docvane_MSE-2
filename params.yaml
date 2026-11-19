@@ -1,0 +1,46 @@
+base:
+  project_name: "DocVane"
+  random_state: 42
+
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  dataset_csv: "data/processed/dataset.csv"
+  test_size: 0.25
+  categories:
+    - "invoice"
+    - "resume"
+    - "certificate"
+    - "bank_statement"
+
+features:
+  max_features: 3000
+  ngram_range: [1, 2]
+  sublinear_tf: true
+  min_df: 2
+
+train:
+  models:
+    - "multinomial_nb"
+    - "linear_svm"
+    - "calibrated_svm"
+  best_model: "calibrated_svm"
+  cv_folds: 5
+  min_macro_f1_threshold: 0.80
+
+mlflow:
+  tracking_uri: "sqlite:///mlflow.db"
+  experiment_name: "docvane-classification"
+
+artifacts:
+  model_path: "artifacts/model.joblib"
+  vectorizer_path: "artifacts/vectorizer.joblib"
+  metrics_path: "reports/metrics.json"
+  confusion_matrix_path: "reports/confusion_matrix.png"
+
+monitoring:
+  predictions_dir: "data/predictions"
+  log_file: "data/predictions/prediction_logs.jsonl"
+  drift_report_path: "reports/drift_report.json"
+  psi_threshold: 0.2
+  low_confidence_threshold: 0.65

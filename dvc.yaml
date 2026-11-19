@@ -1,0 +1,40 @@
+stages:
+  prepare_data:
+    cmd: python scripts/generate_dataset.py
+    deps:
+      - scripts/generate_dataset.py
+      - params.yaml
+    outs:
+      - data/processed/dataset.csv
+
+  validate_data:
+    cmd: python -c "from src.data.validation import validate_dataset; validate_dataset('data/processed/dataset.csv')"
+    deps:
+      - src/data/validation.py
+      - data/processed/dataset.csv
+
+  train_model:
+    cmd: python src/models/train.py
+    deps:
+      - src/models/train.py
+      - src/features/preprocessing.py
+      - data/processed/dataset.csv
+      - params.yaml
+    outs:
+      - artifacts/model.joblib
+      - artifacts/vectorizer.joblib
+
+  evaluate_model:
+    cmd: python src/models/evaluate.py
+    deps:
+      - src/models/evaluate.py
+      - artifacts/model.joblib
+      - artifacts/vectorizer.joblib
+      - data/processed/dataset.csv
+      - params.yaml
+    metrics:
+      - reports/metrics.json:
+          cache: false
+    plots:
+      - reports/confusion_matrix.png:
+          cache: false

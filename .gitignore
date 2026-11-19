@@ -1,0 +1,49 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MLflow
+mlruns/
+.mlflow/
+mlflow.db
+mlflow.db-journal
+mlflow.db-wal
+mlflow.db-shm
+
+# Predictions
+data/predictions/*.jsonl
+
+# DVC
+.dvc/cache
+.dvc/tmp
+
+# OS & IDE
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
