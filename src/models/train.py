@@ -99,8 +99,9 @@ def train_and_track():
     validate_dataset(dataset_csv)
     df = pd.read_csv(dataset_csv)
 
-    X = df["document_text"].values
-    y = df["label"].values
+    # Convert series to standard numpy object arrays to avoid PyArrow chunked indexing issues
+    X = np.array(df["document_text"].astype(str).tolist(), dtype=object)
+    y = np.array(df["label"].astype(str).tolist(), dtype=object)
     classes = sorted(list(np.unique(y)))
 
     # 2. Stratified train-test split

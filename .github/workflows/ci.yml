@@ -29,17 +29,17 @@ jobs:
         run: |
           python -c "from src.data.validation import validate_dataset; validate_dataset('data/processed/dataset.csv')"
 
-      - name: Step 2 - Run Pytest Suite
-        run: |
-          pytest -v
-
-      - name: Step 3 - Train ML Models & Track with MLflow
+      - name: Step 2 - Train ML Models & Track with MLflow
         run: |
           python src/models/train.py
 
-      - name: Step 4 - Model Threshold & Evaluation Check
+      - name: Step 3 - Model Threshold & Evaluation Check
         run: |
           python src/models/evaluate.py
+
+      - name: Step 4 - Run Pytest Suite
+        run: |
+          pytest -v
 
       - name: Upload Artifacts and Reports
         uses: actions/upload-artifact@v4

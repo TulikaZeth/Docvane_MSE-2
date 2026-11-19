@@ -50,12 +50,16 @@ def evaluate_saved_model(
     df = pd.read_csv(dataset_path)
 
     # Perform stratified split to match test set
+    # Convert series to standard numpy object arrays to avoid PyArrow chunked indexing issues
+    docs = np.array(df["document_text"].astype(str).tolist(), dtype=object)
+    labels = np.array(df["label"].astype(str).tolist(), dtype=object)
+
     _, X_test_raw, _, y_test = train_test_split(
-        df["document_text"].values,
-        df["label"].values,
+        docs,
+        labels,
         test_size=test_size,
         random_state=random_state,
-        stratify=df["label"].values,
+        stratify=labels,
     )
 
     X_test_vec = vectorizer.transform(X_test_raw)
