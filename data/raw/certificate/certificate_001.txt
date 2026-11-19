@@ -1,0 +1,11 @@
+CERTIFICATE OF COMPLETION
+This is to certify that
+Alex Mercer
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Data Engineering with Apache Spark
+
+Given this day: 25/09/2026
+Certificate ID: CERT-84920001
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920001

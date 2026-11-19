@@ -1,0 +1,19 @@
+FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Sarah Jenkins
+Account No: 492019380001
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $18416.49
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $19918.62
+
+Transaction History:
+- Electronic Transfer IN: +$4927.24
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $19918.62
+FDIC Insured up to $250,000

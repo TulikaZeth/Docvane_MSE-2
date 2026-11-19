@@ -1,0 +1,16 @@
+BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1005
+Issued: 22/10/2026
+Payment Due: 11/11/2026
+Billed Client: Vanguard Media
+
+Deliverables:
+- Full-Stack Engineering Consultation ($300.00)
+- Machine Learning Pipeline Development ($900.00)
+- Full-Stack Engineering Consultation ($960.00)
+
+Discount: $0.00
+Tax: $216.00
+Final Total: $2376.00
+Wire Transfer Instructions: Routing #021000021, Account #1005890

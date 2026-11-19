@@ -1,0 +1,17 @@
+TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1004
+Billing Date: 24/10/2026
+Due Date: 27/11/2026
+
+Customer: Starlight Logistics
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 1 - $500.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 3 - $600.00
+3. Dedicated DevOps Engineering Support - Qty: 16 - $1280.00
+
+Total Amount Due: $2618.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.

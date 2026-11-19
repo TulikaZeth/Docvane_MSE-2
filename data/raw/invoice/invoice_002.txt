@@ -1,0 +1,16 @@
+BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1002
+Issued: 12/10/2026
+Payment Due: 10/11/2026
+Billed Client: Alpha Dynamics
+
+Deliverables:
+- API Gateway Integration ($750.00)
+- API Gateway Integration ($600.00)
+- API Gateway Integration ($405.00)
+
+Discount: $0.00
+Tax: $175.50
+Final Total: $1930.50
+Wire Transfer Instructions: Routing #021000021, Account #1002890

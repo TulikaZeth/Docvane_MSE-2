@@ -1,0 +1,21 @@
+INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Starlight Logistics
+Invoice No: INV-1003
+Date: 28/10/2026
+Due Date: 16/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Cloud Database Migration                              4    $250.00      $1000.00
+Cloud Database Migration                              1    $200.00      $200.00
+Cloud Database Migration                              18    $45.00      $810.00
+
+Subtotal: $2010.00
+Tax (10%): $201.00
+Grand Total: $2211.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!

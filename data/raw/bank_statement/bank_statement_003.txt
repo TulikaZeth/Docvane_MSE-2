@@ -1,0 +1,24 @@
+NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: David Miller
+Address: 789 Oakridge Ave, Boston
+Account Number: 492019380003
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $11150.16
+Total Deposits & Credits: $9682.81
+Total Withdrawals & Debits: $6749.43
+Closing Balance: $14083.53
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $9682.81  $20832.96
+15/10/2026  Vendor Wire Transfer            $2,150.00               $14583.53
+28/10/2026  Utility & Operations AutoPay    $500.00                 $14083.53
+
+Available Balance as of 11/01/2026: $14083.53
+For customer service inquiries call 1-800-555-0199.

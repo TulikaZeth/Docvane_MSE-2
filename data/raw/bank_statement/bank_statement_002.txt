@@ -1,0 +1,14 @@
+HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380002
+Client Name: Emily Davis
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $7210.19
+- Total Credits: $9779.27
+- Total Debits: $4668.88
+- Closing Balance: $12320.58
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.

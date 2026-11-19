@@ -1,0 +1,23 @@
+CURRICULUM VITAE - Sophia Patel
+Contact: sophiapatel62@gmail.com | +1 (555) 174-7065
+Address: Chicago, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | ByteForge (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | DataWorks (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)

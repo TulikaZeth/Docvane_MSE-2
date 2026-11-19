@@ -1,0 +1,27 @@
+Jessica Watson
+Email: jessicawatson26@gmail.com | Phone: +1 (555) 662-9927
+LinkedIn: linkedin.com/in/jessicawatson | GitHub: github.com/jessicawatson
+Location: Seattle, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 4+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | ByteForge (2022 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | HyperScale Inc (2019 - 2022)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0

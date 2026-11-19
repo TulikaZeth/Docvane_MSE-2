@@ -1,0 +1,2879 @@
+document_text,label,source_file
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1001
+Billing Date: 12/10/2026
+Due Date: 24/11/2026
+
+Customer: Alpha Dynamics
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 1 - $250.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 1 - $200.00
+3. Dedicated DevOps Engineering Support - Qty: 15 - $675.00
+
+Total Amount Due: $1237.50
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_001.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1002
+Issued: 12/10/2026
+Payment Due: 10/11/2026
+Billed Client: Alpha Dynamics
+
+Deliverables:
+- API Gateway Integration ($750.00)
+- API Gateway Integration ($600.00)
+- API Gateway Integration ($405.00)
+
+Discount: $0.00
+Tax: $175.50
+Final Total: $1930.50
+Wire Transfer Instructions: Routing #021000021, Account #1002890",invoice,invoice_002.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Starlight Logistics
+Invoice No: INV-1003
+Date: 28/10/2026
+Due Date: 16/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Cloud Database Migration                              4    $250.00      $1000.00
+Cloud Database Migration                              1    $200.00      $200.00
+Cloud Database Migration                              18    $45.00      $810.00
+
+Subtotal: $2010.00
+Tax (10%): $201.00
+Grand Total: $2211.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_003.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1004
+Billing Date: 24/10/2026
+Due Date: 27/11/2026
+
+Customer: Starlight Logistics
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 1 - $500.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 3 - $600.00
+3. Dedicated DevOps Engineering Support - Qty: 16 - $1280.00
+
+Total Amount Due: $2618.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_004.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1005
+Issued: 22/10/2026
+Payment Due: 11/11/2026
+Billed Client: Vanguard Media
+
+Deliverables:
+- Full-Stack Engineering Consultation ($300.00)
+- Machine Learning Pipeline Development ($900.00)
+- Full-Stack Engineering Consultation ($960.00)
+
+Discount: $0.00
+Tax: $216.00
+Final Total: $2376.00
+Wire Transfer Instructions: Routing #021000021, Account #1005890",invoice,invoice_005.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Crestview Partners
+Invoice No: INV-1006
+Date: 18/10/2026
+Due Date: 05/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Machine Learning Pipeline Development                              5    $250.00      $1250.00
+API Gateway Integration                              1    $200.00      $200.00
+Frontend UX/UI Optimization                              20    $45.00      $900.00
+
+Subtotal: $2350.00
+Tax (10%): $235.00
+Grand Total: $2585.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_006.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1007
+Billing Date: 05/10/2026
+Due Date: 16/11/2026
+
+Customer: Orion Cloud LLC
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 5 - $750.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 3 - $600.00
+3. Dedicated DevOps Engineering Support - Qty: 20 - $900.00
+
+Total Amount Due: $2475.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_007.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1008
+Issued: 17/10/2026
+Payment Due: 14/11/2026
+Billed Client: Nexus Health Inc
+
+Deliverables:
+- Machine Learning Pipeline Development ($2000.00)
+- Full-Stack Engineering Consultation ($1350.00)
+- Full-Stack Engineering Consultation ($960.00)
+
+Discount: $0.00
+Tax: $431.00
+Final Total: $4741.00
+Wire Transfer Instructions: Routing #021000021, Account #1008890",invoice,invoice_008.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Vanguard Media
+Invoice No: INV-1009
+Date: 17/10/2026
+Due Date: 03/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+API Gateway Integration                              2    $150.00      $300.00
+Machine Learning Pipeline Development                              3    $200.00      $600.00
+Frontend UX/UI Optimization                              20    $45.00      $900.00
+
+Subtotal: $1800.00
+Tax (10%): $180.00
+Grand Total: $1980.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_009.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1010
+Billing Date: 17/10/2026
+Due Date: 28/11/2026
+
+Customer: Alpha Dynamics
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 3 - $450.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 1 - $450.00
+3. Dedicated DevOps Engineering Support - Qty: 18 - $1440.00
+
+Total Amount Due: $2574.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_010.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1011
+Issued: 09/10/2026
+Payment Due: 27/11/2026
+Billed Client: Starlight Logistics
+
+Deliverables:
+- API Gateway Integration ($500.00)
+- Machine Learning Pipeline Development ($200.00)
+- API Gateway Integration ($1040.00)
+
+Discount: $0.00
+Tax: $174.00
+Final Total: $1914.00
+Wire Transfer Instructions: Routing #021000021, Account #1011890",invoice,invoice_011.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Nexus Health Inc
+Invoice No: INV-1012
+Date: 15/10/2026
+Due Date: 22/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Serverless Infrastructure Setup                              4    $150.00      $600.00
+Machine Learning Pipeline Development                              1    $450.00      $450.00
+Serverless Infrastructure Setup                              14    $80.00      $1120.00
+
+Subtotal: $2170.00
+Tax (10%): $217.00
+Grand Total: $2387.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_012.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1013
+Billing Date: 06/10/2026
+Due Date: 06/11/2026
+
+Customer: Vanguard Media
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 4 - $2000.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 3 - $1350.00
+3. Dedicated DevOps Engineering Support - Qty: 13 - $585.00
+
+Total Amount Due: $4328.50
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_013.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1014
+Issued: 05/10/2026
+Payment Due: 22/11/2026
+Billed Client: Starlight Logistics
+
+Deliverables:
+- Cloud Database Migration ($500.00)
+- Security Audit & Vulnerability Assessment ($1350.00)
+- Frontend UX/UI Optimization ($560.00)
+
+Discount: $0.00
+Tax: $241.00
+Final Total: $2651.00
+Wire Transfer Instructions: Routing #021000021, Account #1014890",invoice,invoice_014.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Crestview Partners
+Invoice No: INV-1015
+Date: 21/10/2026
+Due Date: 05/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Serverless Infrastructure Setup                              2    $250.00      $500.00
+Machine Learning Pipeline Development                              2    $450.00      $900.00
+Serverless Infrastructure Setup                              9    $80.00      $720.00
+
+Subtotal: $2120.00
+Tax (10%): $212.00
+Grand Total: $2332.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_015.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1016
+Billing Date: 24/10/2026
+Due Date: 06/11/2026
+
+Customer: Orion Cloud LLC
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 3 - $750.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 3 - $600.00
+3. Dedicated DevOps Engineering Support - Qty: 13 - $1040.00
+
+Total Amount Due: $2629.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_016.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1017
+Issued: 03/10/2026
+Payment Due: 12/11/2026
+Billed Client: Nexus Health Inc
+
+Deliverables:
+- Machine Learning Pipeline Development ($500.00)
+- Frontend UX/UI Optimization ($450.00)
+- Serverless Infrastructure Setup ($810.00)
+
+Discount: $0.00
+Tax: $176.00
+Final Total: $1936.00
+Wire Transfer Instructions: Routing #021000021, Account #1017890",invoice,invoice_017.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Quantum Core
+Invoice No: INV-1018
+Date: 12/10/2026
+Due Date: 15/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+API Gateway Integration                              5    $150.00      $750.00
+Serverless Infrastructure Setup                              3    $200.00      $600.00
+API Gateway Integration                              11    $80.00      $880.00
+
+Subtotal: $2230.00
+Tax (10%): $223.00
+Grand Total: $2453.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_018.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1019
+Billing Date: 07/10/2026
+Due Date: 16/11/2026
+
+Customer: Vanguard Media
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 5 - $2500.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 3 - $600.00
+3. Dedicated DevOps Engineering Support - Qty: 8 - $360.00
+
+Total Amount Due: $3806.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_019.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1020
+Issued: 02/10/2026
+Payment Due: 22/11/2026
+Billed Client: Vanguard Media
+
+Deliverables:
+- Machine Learning Pipeline Development ($750.00)
+- Cloud Database Migration ($600.00)
+- Machine Learning Pipeline Development ($880.00)
+
+Discount: $0.00
+Tax: $223.00
+Final Total: $2453.00
+Wire Transfer Instructions: Routing #021000021, Account #1020890",invoice,invoice_020.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Quantum Core
+Invoice No: INV-1021
+Date: 04/10/2026
+Due Date: 17/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+API Gateway Integration                              1    $500.00      $500.00
+Security Audit & Vulnerability Assessment                              1    $200.00      $200.00
+Full-Stack Engineering Consultation                              17    $45.00      $765.00
+
+Subtotal: $1465.00
+Tax (10%): $146.50
+Grand Total: $1611.50
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_021.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1022
+Billing Date: 27/10/2026
+Due Date: 28/11/2026
+
+Customer: Orion Cloud LLC
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 4 - $1000.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 1 - $200.00
+3. Dedicated DevOps Engineering Support - Qty: 18 - $810.00
+
+Total Amount Due: $2211.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_022.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1023
+Issued: 26/10/2026
+Payment Due: 14/11/2026
+Billed Client: Starlight Logistics
+
+Deliverables:
+- Machine Learning Pipeline Development ($2500.00)
+- Frontend UX/UI Optimization ($400.00)
+- Machine Learning Pipeline Development ($450.00)
+
+Discount: $0.00
+Tax: $335.00
+Final Total: $3685.00
+Wire Transfer Instructions: Routing #021000021, Account #1023890",invoice,invoice_023.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Vanguard Media
+Invoice No: INV-1024
+Date: 28/10/2026
+Due Date: 15/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Frontend UX/UI Optimization                              2    $500.00      $1000.00
+Full-Stack Engineering Consultation                              1    $200.00      $200.00
+Serverless Infrastructure Setup                              6    $45.00      $270.00
+
+Subtotal: $1470.00
+Tax (10%): $147.00
+Grand Total: $1617.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_024.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1025
+Billing Date: 21/10/2026
+Due Date: 25/11/2026
+
+Customer: Quantum Core
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 5 - $2500.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 3 - $1350.00
+3. Dedicated DevOps Engineering Support - Qty: 14 - $630.00
+
+Total Amount Due: $4928.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_025.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1026
+Issued: 04/10/2026
+Payment Due: 04/11/2026
+Billed Client: Alpha Dynamics
+
+Deliverables:
+- Security Audit & Vulnerability Assessment ($1250.00)
+- API Gateway Integration ($450.00)
+- Frontend UX/UI Optimization ($900.00)
+
+Discount: $0.00
+Tax: $260.00
+Final Total: $2860.00
+Wire Transfer Instructions: Routing #021000021, Account #1026890",invoice,invoice_026.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Vanguard Media
+Invoice No: INV-1027
+Date: 26/10/2026
+Due Date: 24/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Security Audit & Vulnerability Assessment                              5    $150.00      $750.00
+Cloud Database Migration                              1    $450.00      $450.00
+Frontend UX/UI Optimization                              13    $45.00      $585.00
+
+Subtotal: $1785.00
+Tax (10%): $178.50
+Grand Total: $1963.50
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_027.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1028
+Billing Date: 15/10/2026
+Due Date: 12/11/2026
+
+Customer: Starlight Logistics
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 4 - $1000.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 2 - $400.00
+3. Dedicated DevOps Engineering Support - Qty: 17 - $765.00
+
+Total Amount Due: $2381.50
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_028.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1029
+Issued: 15/10/2026
+Payment Due: 13/11/2026
+Billed Client: Crestview Partners
+
+Deliverables:
+- Serverless Infrastructure Setup ($500.00)
+- Machine Learning Pipeline Development ($600.00)
+- Serverless Infrastructure Setup ($1280.00)
+
+Discount: $0.00
+Tax: $238.00
+Final Total: $2618.00
+Wire Transfer Instructions: Routing #021000021, Account #1029890",invoice,invoice_029.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Vanguard Media
+Invoice No: INV-1030
+Date: 20/10/2026
+Due Date: 04/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Serverless Infrastructure Setup                              4    $150.00      $600.00
+Full-Stack Engineering Consultation                              1    $450.00      $450.00
+Serverless Infrastructure Setup                              11    $80.00      $880.00
+
+Subtotal: $1930.00
+Tax (10%): $193.00
+Grand Total: $2123.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_030.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1031
+Billing Date: 02/10/2026
+Due Date: 19/11/2026
+
+Customer: Starlight Logistics
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 4 - $2000.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 1 - $450.00
+3. Dedicated DevOps Engineering Support - Qty: 11 - $495.00
+
+Total Amount Due: $3239.50
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_031.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1032
+Issued: 10/10/2026
+Payment Due: 09/11/2026
+Billed Client: Starlight Logistics
+
+Deliverables:
+- Full-Stack Engineering Consultation ($750.00)
+- Serverless Infrastructure Setup ($900.00)
+- Serverless Infrastructure Setup ($900.00)
+
+Discount: $0.00
+Tax: $255.00
+Final Total: $2805.00
+Wire Transfer Instructions: Routing #021000021, Account #1032890",invoice,invoice_032.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Nexus Health Inc
+Invoice No: INV-1033
+Date: 02/10/2026
+Due Date: 01/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Serverless Infrastructure Setup                              4    $250.00      $1000.00
+API Gateway Integration                              2    $450.00      $900.00
+API Gateway Integration                              15    $80.00      $1200.00
+
+Subtotal: $3100.00
+Tax (10%): $310.00
+Grand Total: $3410.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_033.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1034
+Billing Date: 17/10/2026
+Due Date: 23/11/2026
+
+Customer: Quantum Core
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 3 - $750.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 2 - $900.00
+3. Dedicated DevOps Engineering Support - Qty: 12 - $540.00
+
+Total Amount Due: $2409.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_034.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1035
+Issued: 14/10/2026
+Payment Due: 05/11/2026
+Billed Client: Vanguard Media
+
+Deliverables:
+- Machine Learning Pipeline Development ($1000.00)
+- Security Audit & Vulnerability Assessment ($400.00)
+- Serverless Infrastructure Setup ($1440.00)
+
+Discount: $0.00
+Tax: $284.00
+Final Total: $3124.00
+Wire Transfer Instructions: Routing #021000021, Account #1035890",invoice,invoice_035.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Crestview Partners
+Invoice No: INV-1036
+Date: 08/10/2026
+Due Date: 14/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Serverless Infrastructure Setup                              1    $500.00      $500.00
+Security Audit & Vulnerability Assessment                              2    $200.00      $400.00
+Machine Learning Pipeline Development                              19    $80.00      $1520.00
+
+Subtotal: $2420.00
+Tax (10%): $242.00
+Grand Total: $2662.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_036.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1037
+Billing Date: 18/10/2026
+Due Date: 18/11/2026
+
+Customer: Orion Cloud LLC
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 5 - $2500.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 1 - $450.00
+3. Dedicated DevOps Engineering Support - Qty: 16 - $1280.00
+
+Total Amount Due: $4653.00
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_037.txt
+"BILL OF SUPPLY / COMMERICAL INVOICE
+Apex Digital Media LLC
+Invoice Number: INV-1038
+Issued: 04/10/2026
+Payment Due: 26/11/2026
+Billed Client: Quantum Core
+
+Deliverables:
+- API Gateway Integration ($150.00)
+- Full-Stack Engineering Consultation ($450.00)
+- Full-Stack Engineering Consultation ($900.00)
+
+Discount: $0.00
+Tax: $150.00
+Final Total: $1650.00
+Wire Transfer Instructions: Routing #021000021, Account #1038890",invoice,invoice_038.txt
+"INVOICE
+Acme Solutions Corp
+123 Innovation Drive, Tech Park, CA 94016
+Tax ID / GSTIN: 27AABCT3518Q1Z8
+Bill To: Alpha Dynamics
+Invoice No: INV-1039
+Date: 04/10/2026
+Due Date: 14/11/2026
+
+Item Description                     Qty    Unit Price    Amount
+-----------------------------------------------------------------
+Cloud Database Migration                              4    $250.00      $1000.00
+API Gateway Integration                              1    $200.00      $200.00
+Machine Learning Pipeline Development                              8    $80.00      $640.00
+
+Subtotal: $1840.00
+Tax (10%): $184.00
+Grand Total: $2024.00
+
+Payment Terms: Net 30 days. Remit payment to Silicon Valley Bank, Acc: 9876543210.
+Thank you for your business!",invoice,invoice_039.txt
+"TAX INVOICE
+Global Tech Supplies Ltd.
+Invoice #: INV-1040
+Billing Date: 03/10/2026
+Due Date: 05/11/2026
+
+Customer: Nexus Health Inc
+Address: 456 Enterprise Blvd, Suite 200
+
+Particulars:
+1. Cloud Infrastructure & Hosting Services - Qty: 1 - $150.00
+2. Enterprise Maintenance Contract (SLA 99.9%) - Qty: 2 - $900.00
+3. Dedicated DevOps Engineering Support - Qty: 5 - $225.00
+
+Total Amount Due: $1402.50
+Payment Status: UNPAID
+Please make cheques payable to Global Tech Supplies Ltd.",invoice,invoice_040.txt
+"CURRICULUM VITAE - Sarah Jenkins
+Contact: sarahjenkins47@gmail.com | +1 (555) 914-6805
+Address: New York, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | CloudVibe (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | Innovatech Labs (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_001.txt
+"RESUME: Michael Chang
+Full Stack & ML Engineer
+Contact Details: michaelchang72@gmail.com | +1 (555) 530-3711
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | DataWorks
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_002.txt
+"Jessica Watson
+Email: jessicawatson26@gmail.com | Phone: +1 (555) 662-9927
+LinkedIn: linkedin.com/in/jessicawatson | GitHub: github.com/jessicawatson
+Location: Seattle, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 4+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | ByteForge (2022 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | HyperScale Inc (2019 - 2022)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0",resume,resume_003.txt
+"CURRICULUM VITAE - Sophia Patel
+Contact: sophiapatel62@gmail.com | +1 (555) 174-7065
+Address: Chicago, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | ByteForge (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | DataWorks (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_004.txt
+"RESUME: Emily Davis
+Full Stack & ML Engineer
+Contact Details: emilydavis69@gmail.com | +1 (555) 351-4954
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | ByteForge
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_005.txt
+"Jessica Watson
+Email: jessicawatson36@gmail.com | Phone: +1 (555) 207-7615
+LinkedIn: linkedin.com/in/jessicawatson | GitHub: github.com/jessicawatson
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 10+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | HyperScale Inc (2023 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | Innovatech Labs (2019 - 2023)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2019)
+GPA: 3.8/4.0",resume,resume_006.txt
+"CURRICULUM VITAE - Liam Henderson
+Contact: liamhenderson89@gmail.com | +1 (555) 196-8720
+Address: Seattle, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | HyperScale Inc (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | ByteForge (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_007.txt
+"RESUME: Emma Garcia
+Full Stack & ML Engineer
+Contact Details: emmagarcia87@gmail.com | +1 (555) 781-9185
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | ByteForge
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_008.txt
+"Sophia Patel
+Email: sophiapatel25@gmail.com | Phone: +1 (555) 465-9767
+LinkedIn: linkedin.com/in/sophiapatel | GitHub: github.com/sophiapatel
+Location: Austin, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 3+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | CloudVibe (2023 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | Innovatech Labs (2018 - 2023)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2019)
+GPA: 3.8/4.0",resume,resume_009.txt
+"CURRICULUM VITAE - Michael Chang
+Contact: michaelchang49@gmail.com | +1 (555) 840-5526
+Address: New York, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | ByteForge (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | Innovatech Labs (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_010.txt
+"RESUME: Liam Henderson
+Full Stack & ML Engineer
+Contact Details: liamhenderson41@gmail.com | +1 (555) 864-1789
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | Innovatech Labs
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_011.txt
+"Sophia Patel
+Email: sophiapatel11@gmail.com | Phone: +1 (555) 106-7239
+LinkedIn: linkedin.com/in/sophiapatel | GitHub: github.com/sophiapatel
+Location: Denver, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 8+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | DataWorks (2021 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | CloudVibe (2018 - 2021)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0",resume,resume_012.txt
+"CURRICULUM VITAE - Sophia Patel
+Contact: sophiapatel90@gmail.com | +1 (555) 569-2618
+Address: San Francisco, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | Innovatech Labs (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | CloudVibe (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_013.txt
+"RESUME: Alex Mercer
+Full Stack & ML Engineer
+Contact Details: alexmercer89@gmail.com | +1 (555) 531-5912
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | DataWorks
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_014.txt
+"Emma Garcia
+Email: emmagarcia83@gmail.com | Phone: +1 (555) 972-3813
+LinkedIn: linkedin.com/in/emmagarcia | GitHub: github.com/emmagarcia
+Location: Seattle, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 4+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | MetaTech Systems (2021 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | Innovatech Labs (2020 - 2021)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0",resume,resume_015.txt
+"CURRICULUM VITAE - Robert Taylor
+Contact: roberttaylor26@gmail.com | +1 (555) 614-1041
+Address: Denver, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | HyperScale Inc (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | Innovatech Labs (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_016.txt
+"RESUME: Michael Chang
+Full Stack & ML Engineer
+Contact Details: michaelchang71@gmail.com | +1 (555) 276-3934
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | ByteForge
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_017.txt
+"Sarah Jenkins
+Email: sarahjenkins72@gmail.com | Phone: +1 (555) 848-8748
+LinkedIn: linkedin.com/in/sarahjenkins | GitHub: github.com/sarahjenkins
+Location: Boston, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 8+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | DataWorks (2021 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | MetaTech Systems (2018 - 2021)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0",resume,resume_018.txt
+"CURRICULUM VITAE - Michael Chang
+Contact: michaelchang73@gmail.com | +1 (555) 236-1393
+Address: Austin, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | HyperScale Inc (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | MetaTech Systems (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_019.txt
+"RESUME: Sophia Patel
+Full Stack & ML Engineer
+Contact Details: sophiapatel99@gmail.com | +1 (555) 586-6709
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | ByteForge
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_020.txt
+"David Miller
+Email: davidmiller77@gmail.com | Phone: +1 (555) 135-8980
+LinkedIn: linkedin.com/in/davidmiller | GitHub: github.com/davidmiller
+Location: Chicago, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 10+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | MetaTech Systems (2021 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | HyperScale Inc (2018 - 2021)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0",resume,resume_021.txt
+"CURRICULUM VITAE - Alex Mercer
+Contact: alexmercer96@gmail.com | +1 (555) 506-6219
+Address: Austin, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | MetaTech Systems (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | MetaTech Systems (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_022.txt
+"RESUME: Michael Chang
+Full Stack & ML Engineer
+Contact Details: michaelchang43@gmail.com | +1 (555) 360-7882
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | DataWorks
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_023.txt
+"Michael Chang
+Email: michaelchang51@gmail.com | Phone: +1 (555) 568-9530
+LinkedIn: linkedin.com/in/michaelchang | GitHub: github.com/michaelchang
+Location: New York, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 3+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | HyperScale Inc (2023 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | MetaTech Systems (2019 - 2023)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2020)
+GPA: 3.8/4.0",resume,resume_024.txt
+"CURRICULUM VITAE - Jessica Watson
+Contact: jessicawatson86@gmail.com | +1 (555) 217-3427
+Address: New York, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | HyperScale Inc (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | HyperScale Inc (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_025.txt
+"RESUME: Sarah Jenkins
+Full Stack & ML Engineer
+Contact Details: sarahjenkins42@gmail.com | +1 (555) 762-3376
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | MetaTech Systems
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_026.txt
+"Jessica Watson
+Email: jessicawatson80@gmail.com | Phone: +1 (555) 460-9182
+LinkedIn: linkedin.com/in/jessicawatson | GitHub: github.com/jessicawatson
+Location: Boston, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 6+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | HyperScale Inc (2022 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | CloudVibe (2020 - 2022)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2020)
+GPA: 3.8/4.0",resume,resume_027.txt
+"CURRICULUM VITAE - Sarah Jenkins
+Contact: sarahjenkins93@gmail.com | +1 (555) 267-3557
+Address: San Francisco, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | HyperScale Inc (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | ByteForge (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_028.txt
+"RESUME: Michael Chang
+Full Stack & ML Engineer
+Contact Details: michaelchang76@gmail.com | +1 (555) 155-2873
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | MetaTech Systems
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_029.txt
+"Sophia Patel
+Email: sophiapatel57@gmail.com | Phone: +1 (555) 969-5365
+LinkedIn: linkedin.com/in/sophiapatel | GitHub: github.com/sophiapatel
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 4+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | Innovatech Labs (2021 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | HyperScale Inc (2020 - 2021)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2019)
+GPA: 3.8/4.0",resume,resume_030.txt
+"CURRICULUM VITAE - Sarah Jenkins
+Contact: sarahjenkins21@gmail.com | +1 (555) 274-3597
+Address: Chicago, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | HyperScale Inc (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | HyperScale Inc (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_031.txt
+"RESUME: Emma Garcia
+Full Stack & ML Engineer
+Contact Details: emmagarcia31@gmail.com | +1 (555) 922-5873
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | HyperScale Inc
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_032.txt
+"Liam Henderson
+Email: liamhenderson64@gmail.com | Phone: +1 (555) 814-6066
+LinkedIn: linkedin.com/in/liamhenderson | GitHub: github.com/liamhenderson
+Location: New York, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 4+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | CloudVibe (2022 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | CloudVibe (2020 - 2022)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2020)
+GPA: 3.8/4.0",resume,resume_033.txt
+"CURRICULUM VITAE - Jessica Watson
+Contact: jessicawatson56@gmail.com | +1 (555) 342-3143
+Address: New York, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | DataWorks (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | CloudVibe (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_034.txt
+"RESUME: Sophia Patel
+Full Stack & ML Engineer
+Contact Details: sophiapatel35@gmail.com | +1 (555) 212-1454
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | ByteForge
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_035.txt
+"Michael Chang
+Email: michaelchang81@gmail.com | Phone: +1 (555) 630-4608
+LinkedIn: linkedin.com/in/michaelchang | GitHub: github.com/michaelchang
+Location: Denver, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 3+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | CloudVibe (2022 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | DataWorks (2020 - 2022)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0",resume,resume_036.txt
+"CURRICULUM VITAE - Jessica Watson
+Contact: jessicawatson54@gmail.com | +1 (555) 662-4837
+Address: Austin, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | CloudVibe (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | DataWorks (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_037.txt
+"RESUME: Jessica Watson
+Full Stack & ML Engineer
+Contact Details: jessicawatson48@gmail.com | +1 (555) 442-5395
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | DataWorks
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley",resume,resume_038.txt
+"Emma Garcia
+Email: emmagarcia15@gmail.com | Phone: +1 (555) 536-5087
+LinkedIn: linkedin.com/in/emmagarcia | GitHub: github.com/emmagarcia
+Location: Seattle, CA
+
+PROFESSIONAL SUMMARY
+Dynamic and results-driven Software Engineer with 6+ years of experience in architecting scalable distributed systems, microservices, and end-to-end machine learning pipelines. Demonstrated mastery in Python, Docker, Kubernetes, and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, Bash, JavaScript, C++
+Frameworks & Libraries: FastAPI, Flask, Scikit-Learn, PyTorch, Pandas, NumPy, TensorFlow
+DevOps & Cloud: Docker, Kubernetes, AWS, GCP, CI/CD, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, Elasticsearch
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | MetaTech Systems (2021 - Present)
+- Designed and deployed end-to-end document classification pipeline processing 50k requests/day.
+- Integrated MLflow experiment tracking and automated model registry deployments.
+- Implemented automated CI/CD workflows using GitHub Actions and Docker containerization.
+
+Software Developer | HyperScale Inc (2018 - 2021)
+- Developed low-latency RESTful microservices with FastAPI and PostgreSQL.
+- Reduced inference latency by 40% utilizing quantized linear models.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2018)
+GPA: 3.8/4.0",resume,resume_039.txt
+"CURRICULUM VITAE - Michael Chang
+Contact: michaelchang56@gmail.com | +1 (555) 759-9642
+Address: Austin, CA
+
+OBJECTIVE
+Motivated Data Scientist with deep expertise in predictive modeling, NLP text extraction, and MLOps lifecycle engineering seeking to build intelligent AI platforms.
+
+CORE COMPETENCIES:
+Skills: Python, Scikit-Learn, MLflow, Docker, Pytest, PyMuPDF, Pandas, Git, Linux
+Specialties: Natural Language Processing, Feature Engineering, Classification Algorithms
+
+PROFESSIONAL EXPERIENCE:
+MLOps Specialist | CloudVibe (2021 - Present)
+- Built automated continuous training pipelines with scikit-learn and MLflow.
+- Developed automated model performance monitoring with drift detection metrics.
+- Authored unit and integration test suites achieving 92% code coverage.
+
+Junior Data Analyst | Innovatech Labs (2019 - 2021)
+- Cleaned and prepared large tabular and text datasets.
+- Generated executive performance dashboards and statistical reports.
+
+EDUCATION:
+Master of Science in Artificial Intelligence | University of California, Berkeley (2019)",resume,resume_040.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Alex Mercer
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Data Engineering with Apache Spark
+
+Given this day: 25/09/2026
+Certificate ID: CERT-84920001
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920001",certificate,certificate_001.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Robert Taylor
+
+In recognition of outstanding performance and completion of:
+FastAPI Microservices & Containerization
+
+Issued on: 06/09/2026
+Certificate Number: CERT-84920002
+Awarded By: Linux Foundation Online Learning Platform
+Status: Verified & Valid",certificate,certificate_002.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Robert Taylor
+
+for successfully completing the rigorous industry examination and requirements for
+Machine Learning & MLOps Engineering
+
+Credential ID: CERT-84920003
+Issue Date: 08/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+MIT Professional Education Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_003.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Alex Mercer
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Data Engineering with Apache Spark
+
+Given this day: 16/09/2026
+Certificate ID: CERT-84920004
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920004",certificate,certificate_004.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Liam Henderson
+
+In recognition of outstanding performance and completion of:
+Deep Neural Networks with PyTorch
+
+Issued on: 08/09/2026
+Certificate Number: CERT-84920005
+Awarded By: DeepLearning.AI Online Learning Platform
+Status: Verified & Valid",certificate,certificate_005.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Emma Garcia
+
+for successfully completing the rigorous industry examination and requirements for
+FastAPI Microservices & Containerization
+
+Credential ID: CERT-84920006
+Issue Date: 09/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+DeepLearning.AI Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_006.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Sarah Jenkins
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Advanced Cloud Architecture & Kubernetes
+
+Given this day: 06/09/2026
+Certificate ID: CERT-84920007
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920007",certificate,certificate_007.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Liam Henderson
+
+In recognition of outstanding performance and completion of:
+Machine Learning & MLOps Engineering
+
+Issued on: 21/09/2026
+Certificate Number: CERT-84920008
+Awarded By: MIT Professional Education Online Learning Platform
+Status: Verified & Valid",certificate,certificate_008.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Alex Mercer
+
+for successfully completing the rigorous industry examination and requirements for
+Machine Learning & MLOps Engineering
+
+Credential ID: CERT-84920009
+Issue Date: 11/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Google Cloud Training Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_009.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Robert Taylor
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+FastAPI Microservices & Containerization
+
+Given this day: 28/09/2026
+Certificate ID: CERT-84920010
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920010",certificate,certificate_010.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Liam Henderson
+
+In recognition of outstanding performance and completion of:
+Advanced Cloud Architecture & Kubernetes
+
+Issued on: 13/09/2026
+Certificate Number: CERT-84920011
+Awarded By: Linux Foundation Online Learning Platform
+Status: Verified & Valid",certificate,certificate_011.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Emily Davis
+
+for successfully completing the rigorous industry examination and requirements for
+Advanced Cloud Architecture & Kubernetes
+
+Credential ID: CERT-84920012
+Issue Date: 04/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Google Cloud Training Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_012.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Jessica Watson
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Advanced Cloud Architecture & Kubernetes
+
+Given this day: 02/09/2026
+Certificate ID: CERT-84920013
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920013",certificate,certificate_013.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Robert Taylor
+
+In recognition of outstanding performance and completion of:
+Deep Neural Networks with PyTorch
+
+Issued on: 05/09/2026
+Certificate Number: CERT-84920014
+Awarded By: MIT Professional Education Online Learning Platform
+Status: Verified & Valid",certificate,certificate_014.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Liam Henderson
+
+for successfully completing the rigorous industry examination and requirements for
+Machine Learning & MLOps Engineering
+
+Credential ID: CERT-84920015
+Issue Date: 26/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Stanford Center for Professional Development Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_015.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Jessica Watson
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Advanced Cloud Architecture & Kubernetes
+
+Given this day: 09/09/2026
+Certificate ID: CERT-84920016
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920016",certificate,certificate_016.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Michael Chang
+
+In recognition of outstanding performance and completion of:
+Advanced Cloud Architecture & Kubernetes
+
+Issued on: 19/09/2026
+Certificate Number: CERT-84920017
+Awarded By: Google Cloud Training Online Learning Platform
+Status: Verified & Valid",certificate,certificate_017.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Liam Henderson
+
+for successfully completing the rigorous industry examination and requirements for
+Machine Learning & MLOps Engineering
+
+Credential ID: CERT-84920018
+Issue Date: 12/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+MIT Professional Education Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_018.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Emma Garcia
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Machine Learning & MLOps Engineering
+
+Given this day: 16/09/2026
+Certificate ID: CERT-84920019
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920019",certificate,certificate_019.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Emma Garcia
+
+In recognition of outstanding performance and completion of:
+Machine Learning & MLOps Engineering
+
+Issued on: 17/09/2026
+Certificate Number: CERT-84920020
+Awarded By: Linux Foundation Online Learning Platform
+Status: Verified & Valid",certificate,certificate_020.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Michael Chang
+
+for successfully completing the rigorous industry examination and requirements for
+FastAPI Microservices & Containerization
+
+Credential ID: CERT-84920021
+Issue Date: 20/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Linux Foundation Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_021.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Liam Henderson
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Deep Neural Networks with PyTorch
+
+Given this day: 09/09/2026
+Certificate ID: CERT-84920022
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920022",certificate,certificate_022.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Emma Garcia
+
+In recognition of outstanding performance and completion of:
+Data Engineering with Apache Spark
+
+Issued on: 11/09/2026
+Certificate Number: CERT-84920023
+Awarded By: Google Cloud Training Online Learning Platform
+Status: Verified & Valid",certificate,certificate_023.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Emma Garcia
+
+for successfully completing the rigorous industry examination and requirements for
+Advanced Cloud Architecture & Kubernetes
+
+Credential ID: CERT-84920024
+Issue Date: 12/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Stanford Center for Professional Development Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_024.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Jessica Watson
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Applied Natural Language Processing
+
+Given this day: 26/09/2026
+Certificate ID: CERT-84920025
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920025",certificate,certificate_025.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Sarah Jenkins
+
+In recognition of outstanding performance and completion of:
+Deep Neural Networks with PyTorch
+
+Issued on: 23/09/2026
+Certificate Number: CERT-84920026
+Awarded By: DeepLearning.AI Online Learning Platform
+Status: Verified & Valid",certificate,certificate_026.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Emma Garcia
+
+for successfully completing the rigorous industry examination and requirements for
+Advanced Cloud Architecture & Kubernetes
+
+Credential ID: CERT-84920027
+Issue Date: 15/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Google Cloud Training Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_027.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Sophia Patel
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Applied Natural Language Processing
+
+Given this day: 20/09/2026
+Certificate ID: CERT-84920028
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920028",certificate,certificate_028.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Liam Henderson
+
+In recognition of outstanding performance and completion of:
+FastAPI Microservices & Containerization
+
+Issued on: 20/09/2026
+Certificate Number: CERT-84920029
+Awarded By: Linux Foundation Online Learning Platform
+Status: Verified & Valid",certificate,certificate_029.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+David Miller
+
+for successfully completing the rigorous industry examination and requirements for
+Advanced Cloud Architecture & Kubernetes
+
+Credential ID: CERT-84920030
+Issue Date: 21/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Google Cloud Training Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_030.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Liam Henderson
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Data Engineering with Apache Spark
+
+Given this day: 19/09/2026
+Certificate ID: CERT-84920031
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920031",certificate,certificate_031.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+David Miller
+
+In recognition of outstanding performance and completion of:
+Advanced Cloud Architecture & Kubernetes
+
+Issued on: 21/09/2026
+Certificate Number: CERT-84920032
+Awarded By: DeepLearning.AI Online Learning Platform
+Status: Verified & Valid",certificate,certificate_032.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Emma Garcia
+
+for successfully completing the rigorous industry examination and requirements for
+FastAPI Microservices & Containerization
+
+Credential ID: CERT-84920033
+Issue Date: 25/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Stanford Center for Professional Development Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_033.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+David Miller
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Applied Natural Language Processing
+
+Given this day: 11/09/2026
+Certificate ID: CERT-84920034
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920034",certificate,certificate_034.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Sophia Patel
+
+In recognition of outstanding performance and completion of:
+Applied Natural Language Processing
+
+Issued on: 12/09/2026
+Certificate Number: CERT-84920035
+Awarded By: Linux Foundation Online Learning Platform
+Status: Verified & Valid",certificate,certificate_035.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Michael Chang
+
+for successfully completing the rigorous industry examination and requirements for
+Deep Neural Networks with PyTorch
+
+Credential ID: CERT-84920036
+Issue Date: 14/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+DeepLearning.AI Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_036.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Emily Davis
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Machine Learning & MLOps Engineering
+
+Given this day: 21/09/2026
+Certificate ID: CERT-84920037
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920037",certificate,certificate_037.txt
+"PROFESSIONAL CREDENTIAL & CERTIFICATE
+Presented to:
+Emily Davis
+
+In recognition of outstanding performance and completion of:
+Advanced Cloud Architecture & Kubernetes
+
+Issued on: 25/09/2026
+Certificate Number: CERT-84920038
+Awarded By: Linux Foundation Online Learning Platform
+Status: Verified & Valid",certificate,certificate_038.txt
+"CERTIFICATE OF ACHIEVEMENT
+This certificate is proudly presented to
+Liam Henderson
+
+for successfully completing the rigorous industry examination and requirements for
+Data Engineering with Apache Spark
+
+Credential ID: CERT-84920039
+Issue Date: 09/09/2026
+Expiry Date: Does Not Expire
+
+Issued by:
+Google Cloud Training Academy
+Authorized Signatory: Dr. Marcus Vance, Chief Academic Officer",certificate,certificate_039.txt
+"CERTIFICATE OF COMPLETION
+This is to certify that
+Jessica Watson
+
+has demonstrated exemplary competence and successfully completed the professional credential program:
+Data Engineering with Apache Spark
+
+Given this day: 01/09/2026
+Certificate ID: CERT-84920040
+Accredited By: Global Tech Council & Standards Institute
+Verification Link: https://verify.certificates.org/id/84920040",certificate,certificate_040.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Sarah Jenkins
+Account No: 492019380001
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $18416.49
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $19918.62
+
+Transaction History:
+- Electronic Transfer IN: +$4927.24
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $19918.62
+FDIC Insured up to $250,000",bank_statement,bank_statement_001.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380002
+Client Name: Emily Davis
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $7210.19
+- Total Credits: $9779.27
+- Total Debits: $4668.88
+- Closing Balance: $12320.58
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_002.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: David Miller
+Address: 789 Oakridge Ave, Boston
+Account Number: 492019380003
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $11150.16
+Total Deposits & Credits: $9682.81
+Total Withdrawals & Debits: $6749.43
+Closing Balance: $14083.53
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $9682.81  $20832.96
+15/10/2026  Vendor Wire Transfer            $2,150.00               $14583.53
+28/10/2026  Utility & Operations AutoPay    $500.00                 $14083.53
+
+Available Balance as of 11/01/2026: $14083.53
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_003.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Emily Davis
+Account No: 492019380004
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $7052.63
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $15893.07
+
+Transaction History:
+- Electronic Transfer IN: +$11614.32
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $15893.07
+FDIC Insured up to $250,000",bank_statement,bank_statement_004.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380005
+Client Name: Michael Chang
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $14931.72
+- Total Credits: $6269.86
+- Total Debits: $5232.82
+- Closing Balance: $15968.77
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_005.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Jessica Watson
+Address: 789 Oakridge Ave, Denver
+Account Number: 492019380006
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $20533.79
+Total Deposits & Credits: $4210.70
+Total Withdrawals & Debits: $5742.89
+Closing Balance: $19001.61
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $4210.70  $24744.50
+15/10/2026  Vendor Wire Transfer            $2,150.00               $19501.61
+28/10/2026  Utility & Operations AutoPay    $500.00                 $19001.61
+
+Available Balance as of 11/01/2026: $19001.61
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_006.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Liam Henderson
+Account No: 492019380007
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $8731.25
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $12900.38
+
+Transaction History:
+- Electronic Transfer IN: +$11469.04
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $12900.38
+FDIC Insured up to $250,000",bank_statement,bank_statement_007.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380008
+Client Name: Liam Henderson
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $22836.64
+- Total Credits: $8772.16
+- Total Debits: $6113.72
+- Closing Balance: $25495.09
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_008.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Emma Garcia
+Address: 789 Oakridge Ave, Austin
+Account Number: 492019380009
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $17322.74
+Total Deposits & Credits: $6313.96
+Total Withdrawals & Debits: $7853.22
+Closing Balance: $15783.49
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $6313.96  $23636.71
+15/10/2026  Vendor Wire Transfer            $2,150.00               $16283.49
+28/10/2026  Utility & Operations AutoPay    $500.00                 $15783.49
+
+Available Balance as of 11/01/2026: $15783.49
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_009.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Sarah Jenkins
+Account No: 492019380010
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $5708.13
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $2220.65
+
+Transaction History:
+- Electronic Transfer IN: +$4041.40
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $2220.65
+FDIC Insured up to $250,000",bank_statement,bank_statement_010.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380011
+Client Name: Jessica Watson
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $11833.81
+- Total Credits: $9135.05
+- Total Debits: $5612.92
+- Closing Balance: $15355.94
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_011.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Sarah Jenkins
+Address: 789 Oakridge Ave, Boston
+Account Number: 492019380012
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $17583.68
+Total Deposits & Credits: $8693.42
+Total Withdrawals & Debits: $2492.79
+Closing Balance: $23784.32
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $8693.42  $26277.11
+15/10/2026  Vendor Wire Transfer            $2,150.00               $24284.32
+28/10/2026  Utility & Operations AutoPay    $500.00                 $23784.32
+
+Available Balance as of 11/01/2026: $23784.32
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_012.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Alex Mercer
+Account No: 492019380013
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $22574.43
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $27991.53
+
+Transaction History:
+- Electronic Transfer IN: +$7652.48
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $27991.53
+FDIC Insured up to $250,000",bank_statement,bank_statement_013.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380014
+Client Name: Sarah Jenkins
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $13653.62
+- Total Credits: $4847.30
+- Total Debits: $3204.79
+- Closing Balance: $15296.13
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_014.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Sophia Patel
+Address: 789 Oakridge Ave, Chicago
+Account Number: 492019380015
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $16982.51
+Total Deposits & Credits: $7585.56
+Total Withdrawals & Debits: $5938.92
+Closing Balance: $18629.15
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $7585.56  $24568.07
+15/10/2026  Vendor Wire Transfer            $2,150.00               $19129.15
+28/10/2026  Utility & Operations AutoPay    $500.00                 $18629.15
+
+Available Balance as of 11/01/2026: $18629.15
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_015.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: David Miller
+Account No: 492019380016
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $5178.53
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $10272.29
+
+Transaction History:
+- Electronic Transfer IN: +$8344.93
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $10272.29
+FDIC Insured up to $250,000",bank_statement,bank_statement_016.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380017
+Client Name: David Miller
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $16791.34
+- Total Credits: $7174.12
+- Total Debits: $5323.31
+- Closing Balance: $18642.15
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_017.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Jessica Watson
+Address: 789 Oakridge Ave, Seattle
+Account Number: 492019380018
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $9152.02
+Total Deposits & Credits: $11610.74
+Total Withdrawals & Debits: $6612.72
+Closing Balance: $14150.04
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $11610.74  $20762.76
+15/10/2026  Vendor Wire Transfer            $2,150.00               $14650.04
+28/10/2026  Utility & Operations AutoPay    $500.00                 $14150.04
+
+Available Balance as of 11/01/2026: $14150.04
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_018.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Sophia Patel
+Account No: 492019380019
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $16469.45
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $20573.66
+
+Transaction History:
+- Electronic Transfer IN: +$11724.91
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $20573.66
+FDIC Insured up to $250,000",bank_statement,bank_statement_019.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380020
+Client Name: Michael Chang
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $23621.23
+- Total Credits: $9796.16
+- Total Debits: $5090.87
+- Closing Balance: $28326.52
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_020.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: David Miller
+Address: 789 Oakridge Ave, Boston
+Account Number: 492019380021
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $15723.04
+Total Deposits & Credits: $7079.23
+Total Withdrawals & Debits: $3961.44
+Closing Balance: $18840.82
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $7079.23  $22802.27
+15/10/2026  Vendor Wire Transfer            $2,150.00               $19340.82
+28/10/2026  Utility & Operations AutoPay    $500.00                 $18840.82
+
+Available Balance as of 11/01/2026: $18840.82
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_021.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Sophia Patel
+Account No: 492019380022
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $5309.48
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $4209.88
+
+Transaction History:
+- Electronic Transfer IN: +$4146.04
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $4209.88
+FDIC Insured up to $250,000",bank_statement,bank_statement_022.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380023
+Client Name: Emily Davis
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $14734.68
+- Total Credits: $6982.39
+- Total Debits: $5137.98
+- Closing Balance: $16579.09
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_023.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Robert Taylor
+Address: 789 Oakridge Ave, Denver
+Account Number: 492019380024
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $20387.68
+Total Deposits & Credits: $6141.08
+Total Withdrawals & Debits: $2212.05
+Closing Balance: $24316.71
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $6141.08  $26528.75
+15/10/2026  Vendor Wire Transfer            $2,150.00               $24816.71
+28/10/2026  Utility & Operations AutoPay    $500.00                 $24316.71
+
+Available Balance as of 11/01/2026: $24316.71
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_024.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Emma Garcia
+Account No: 492019380025
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $15056.39
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $15786.73
+
+Transaction History:
+- Electronic Transfer IN: +$6386.18
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $15786.73
+FDIC Insured up to $250,000",bank_statement,bank_statement_025.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380026
+Client Name: Alex Mercer
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $7809.55
+- Total Credits: $7409.78
+- Total Debits: $4495.24
+- Closing Balance: $10724.09
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_026.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Michael Chang
+Address: 789 Oakridge Ave, Seattle
+Account Number: 492019380027
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $17628.17
+Total Deposits & Credits: $6941.94
+Total Withdrawals & Debits: $7195.15
+Closing Balance: $17374.96
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $6941.94  $24570.11
+15/10/2026  Vendor Wire Transfer            $2,150.00               $17874.96
+28/10/2026  Utility & Operations AutoPay    $500.00                 $17374.96
+
+Available Balance as of 11/01/2026: $17374.96
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_027.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Jessica Watson
+Account No: 492019380028
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $6206.28
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $6223.06
+
+Transaction History:
+- Electronic Transfer IN: +$4745.61
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $6223.06
+FDIC Insured up to $250,000",bank_statement,bank_statement_028.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380029
+Client Name: Jessica Watson
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $10785.66
+- Total Credits: $5255.31
+- Total Debits: $7515.60
+- Closing Balance: $8525.37
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_029.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Sophia Patel
+Address: 789 Oakridge Ave, New York
+Account Number: 492019380030
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $9240.50
+Total Deposits & Credits: $7920.75
+Total Withdrawals & Debits: $6891.33
+Closing Balance: $10269.92
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $7920.75  $17161.25
+15/10/2026  Vendor Wire Transfer            $2,150.00               $10769.92
+28/10/2026  Utility & Operations AutoPay    $500.00                 $10269.92
+
+Available Balance as of 11/01/2026: $10269.92
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_030.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Michael Chang
+Account No: 492019380031
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $22731.98
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $31320.10
+
+Transaction History:
+- Electronic Transfer IN: +$11876.40
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $31320.10
+FDIC Insured up to $250,000",bank_statement,bank_statement_031.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380032
+Client Name: Alex Mercer
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $17453.07
+- Total Credits: $10963.04
+- Total Debits: $5227.44
+- Closing Balance: $23188.68
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_032.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Emily Davis
+Address: 789 Oakridge Ave, Austin
+Account Number: 492019380033
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $13054.73
+Total Deposits & Credits: $10517.35
+Total Withdrawals & Debits: $5840.57
+Closing Balance: $17731.51
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $10517.35  $23572.08
+15/10/2026  Vendor Wire Transfer            $2,150.00               $18231.51
+28/10/2026  Utility & Operations AutoPay    $500.00                 $17731.51
+
+Available Balance as of 11/01/2026: $17731.51
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_033.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Alex Mercer
+Account No: 492019380034
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $6485.78
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $9973.91
+
+Transaction History:
+- Electronic Transfer IN: +$8503.42
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $9973.91
+FDIC Insured up to $250,000",bank_statement,bank_statement_034.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380035
+Client Name: Robert Taylor
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $20683.55
+- Total Credits: $11409.76
+- Total Debits: $5734.20
+- Closing Balance: $26359.10
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_035.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Sarah Jenkins
+Address: 789 Oakridge Ave, Seattle
+Account Number: 492019380036
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $20224.27
+Total Deposits & Credits: $10667.25
+Total Withdrawals & Debits: $2535.83
+Closing Balance: $28355.69
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $10667.25  $30891.52
+15/10/2026  Vendor Wire Transfer            $2,150.00               $28855.69
+28/10/2026  Utility & Operations AutoPay    $500.00                 $28355.69
+
+Available Balance as of 11/01/2026: $28355.69
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_036.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Emily Davis
+Account No: 492019380037
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $22930.59
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $25607.06
+
+Transaction History:
+- Electronic Transfer IN: +$10115.23
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $25607.06
+FDIC Insured up to $250,000",bank_statement,bank_statement_037.txt
+"HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380038
+Client Name: Alex Mercer
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $8450.76
+- Total Credits: $10399.87
+- Total Debits: $7940.27
+- Closing Balance: $10910.37
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.",bank_statement,bank_statement_038.txt
+"NATIONAL RESERVE BANK
+Monthly Account Statement
+Statement Period: October 01, 2026 to October 31, 2026
+
+Account Holder: Michael Chang
+Address: 789 Oakridge Ave, San Francisco
+Account Number: 492019380039
+Account Type: Premium Business Checking
+
+SUMMARY:
+Opening Balance: $7169.13
+Total Deposits & Credits: $9393.49
+Total Withdrawals & Debits: $5494.53
+Closing Balance: $11068.10
+
+TRANSACTION DETAILS:
+Date        Description                     Debit       Credit      Balance
+-------------------------------------------------------------------------
+01/10/2026  Payroll Direct Deposit                      $9393.49  $16562.62
+15/10/2026  Vendor Wire Transfer            $2,150.00               $11568.10
+28/10/2026  Utility & Operations AutoPay    $500.00                 $11068.10
+
+Available Balance as of 11/01/2026: $11068.10
+For customer service inquiries call 1-800-555-0199.",bank_statement,bank_statement_039.txt
+"FIRST METROPOLITAN BANK
+Official Statement of Account
+Account Holder Name: Jessica Watson
+Account No: 492019380040
+Period: October 01, 2026 to October 31, 2026
+Generated On: 11/01/2026
+
+Opening Balance: $20176.58
+Interest Earned: $14.20
+Total Service Charges: $0.00
+Ending Balance: $24430.69
+
+Transaction History:
+- Electronic Transfer IN: +$6611.81
+- Debit Card Merchant Purchase: -$340.50
+- ATM Cash Withdrawal: -$200.00
+
+Current Balance: $24430.69
+FDIC Insured up to $250,000",bank_statement,bank_statement_040.txt

@@ -1,0 +1,19 @@
+RESUME: Emily Davis
+Full Stack & ML Engineer
+Contact Details: emilydavis69@gmail.com | +1 (555) 351-4954
+
+PROFILE:
+Enthusiastic developer focused on end-to-end full stack and machine learning systems. Experienced in building clean APIs with FastAPI, containerizing services with Docker, and writing clean maintainable code.
+
+SKILLS & TECHNOLOGIES:
+Technical Skills: Python, Scikit-Learn, FastAPI, Docker, Pytest, SQL, HTML/CSS, Git, AWS
+Tools: Jupyter, Git, Postman, Linux, VS Code
+
+EXPERIENCE:
+Software Engineer | ByteForge
+- Created automated document ingestion pipeline with PyMuPDF text parsing.
+- Served calibrated classifier models behind REST endpoints.
+- Managed container builds and automated deployment workflows.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering | University of California, Berkeley

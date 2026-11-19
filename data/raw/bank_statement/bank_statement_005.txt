@@ -1,0 +1,14 @@
+HORIZON COMMERCIAL BANK
+Account Statement
+Account Number: 492019380005
+Client Name: Michael Chang
+Statement Date: 11/01/2026
+Period Covered: October 01, 2026 to October 31, 2026
+
+Balances:
+- Previous Balance: $14931.72
+- Total Credits: $6269.86
+- Total Debits: $5232.82
+- Closing Balance: $15968.77
+
+Notice: Please verify all posted transactions immediately. Report discrepancies within 30 days.
