@@ -44,3 +44,10 @@ monitoring:
   drift_report_path: "reports/drift_report.json"
   psi_threshold: 0.2
   low_confidence_threshold: 0.65
+
+ocr:
+  fallback_enabled: true
+  engine: "auto"              # Options: "auto", "tesseract", "easyocr", "pymupdf"
+  min_chars_per_page: 20
+  dpi: 200
+  lang: "eng"

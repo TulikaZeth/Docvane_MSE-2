@@ -96,3 +96,53 @@ def test_regex_extraction_certificate():
     assert fields.get("recipient_name") == "Alice Walker"
     assert "Machine Learning" in fields.get("course_name", "")
     assert fields.get("certificate_id") == "CERT-8821"
+
+
+def test_extract_text_scanned_pdf_ocr_fallback(tmp_path):
+    """Test OCR fallback for scanned/image-only PDFs where digital text is absent."""
+    import io
+    import pymupdf as fitz
+    from PIL import Image, ImageDraw
+    from src.data.extraction import extract_text_from_pdf, find_tesseract_binary
+
+    # 1. Create a pure-image PDF (simulating a scanned document)
+    img = Image.new("RGB", (800, 300), color=(255, 255, 255))
+    draw = ImageDraw.Draw(img)
+    draw.text((30, 80), "Tax Invoice: INV-7788 | Total Amount: $2,500.00", fill=(0, 0, 0))
+    buf = io.BytesIO()
+    img.save(buf, format="PNG")
+
+    doc = fitz.open()
+    page = doc.new_page(width=800, height=300)
+    page.insert_image(page.rect, stream=buf.getvalue())
+    scanned_pdf = tmp_path / "scanned_invoice.pdf"
+    doc.save(str(scanned_pdf))
+    doc.close()
+
+    # 2. Without OCR fallback: standard text extraction yields empty string
+    no_ocr_text = extract_text_from_pdf(scanned_pdf, ocr_fallback=False)
+    assert no_ocr_text == ""
+
+    # 3. With OCR fallback: if Tesseract is available, it should extract the invoice text
+    if find_tesseract_binary():
+        ocr_text = extract_text_from_pdf(scanned_pdf, ocr_fallback=True, ocr_engine="auto")
+        assert len(ocr_text) > 0
+        assert "INV-7788" in ocr_text or "Invoice" in ocr_text or "Total" in ocr_text
+
+
+def test_extract_text_from_image_file(tmp_path):
+    """Test text extraction from a standalone image file using OCR."""
+    import io
+    from PIL import Image, ImageDraw
+    from src.data.extraction import extract_text, find_tesseract_binary
+
+    img = Image.new("RGB", (600, 200), color=(255, 255, 255))
+    draw = ImageDraw.Draw(img)
+    draw.text((20, 50), "Certificate ID: CERT-9900", fill=(0, 0, 0))
+    img_path = tmp_path / "sample_cert.png"
+    img.save(img_path)
+
+    if find_tesseract_binary():
+        extracted = extract_text(img_path, filename="sample_cert.png")
+        assert len(extracted) > 0
+        assert "CERT" in extracted and "9900" in extracted

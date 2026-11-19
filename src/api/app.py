@@ -69,13 +69,19 @@ def health():
     }
 
 
+ALLOWED_EXTENSIONS = {".pdf", ".txt", ".png", ".jpg", ".jpeg", ".tiff", ".bmp", ".webp"}
+
+
 @app.post("/predict", summary="Classify Document", tags=["Inference"])
 async def predict_document(
-    file: Optional[UploadFile] = File(None, description="PDF or TXT document file"),
+    file: Optional[UploadFile] = File(None, description="PDF, TXT, or scanned image document file"),
     raw_text: Optional[str] = Query(None, description="Alternative: pass document text as query param"),
+    ocr_fallback: bool = Query(True, description="Enable OCR fallback for scanned/image PDFs"),
+    ocr_engine: str = Query("auto", description="OCR engine ('auto', 'tesseract', 'easyocr', 'pymupdf')"),
 ):
     """
-    Classify an uploaded document (PDF or TXT) or raw text.
+    Classify an uploaded document (PDF, TXT, or Image) or raw text.
+    Includes automatic OCR fallback for scanned / image PDFs.
     Returns predicted category, calibrated confidence score, and extracted fields.
     """
     classifier = get_classifier()
@@ -85,10 +91,10 @@ async def predict_document(
     if file is not None:
         filename = file.filename or "unknown"
         ext = Path(filename).suffix.lower()
-        if ext not in [".pdf", ".txt"]:
+        if ext not in ALLOWED_EXTENSIONS:
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST,
-                detail=f"Unsupported file format '{ext}'. Only .pdf and .txt are allowed.",
+                detail=f"Unsupported file format '{ext}'. Allowed: {', '.join(sorted(ALLOWED_EXTENSIONS))}",
             )
         try:
             content_bytes = await file.read()
@@ -97,7 +103,12 @@ async def predict_document(
                     status_code=status.HTTP_400_BAD_REQUEST,
                     detail="Uploaded file is empty.",
                 )
-            text = extract_text(content_bytes, filename=filename)
+            text = extract_text(
+                content_bytes,
+                filename=filename,
+                ocr_fallback=ocr_fallback,
+                ocr_engine=ocr_engine,
+            )
         except HTTPException:
             raise
         except Exception as e:
@@ -170,12 +181,19 @@ def extract_fields(payload: ExtractRequest):
 async def extract_fields_from_file(
     file: UploadFile = File(...),
     category: Optional[str] = Query(None, description="Optional category hint"),
+    ocr_fallback: bool = Query(True, description="Enable OCR fallback for scanned documents"),
+    ocr_engine: str = Query("auto", description="OCR engine ('auto', 'tesseract', 'easyocr', 'pymupdf')"),
 ):
-    """Extract metadata/fields from an uploaded PDF or TXT file using regex."""
+    """Extract metadata/fields from an uploaded PDF, TXT, or Image file using regex with OCR fallback."""
     content_bytes = await file.read()
     if not content_bytes:
         raise HTTPException(status_code=400, detail="Uploaded file is empty.")
-    text = extract_text(content_bytes, filename=file.filename or "")
+    text = extract_text(
+        content_bytes,
+        filename=file.filename or "",
+        ocr_fallback=ocr_fallback,
+        ocr_engine=ocr_engine,
+    )
     if not text.strip():
         raise HTTPException(status_code=400, detail="No text extracted from file.")
 

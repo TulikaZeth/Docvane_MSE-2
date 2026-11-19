@@ -14,3 +14,6 @@ pyyaml>=6.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
 reportlab>=4.0.0
+pillow>=10.0.0
+pytesseract>=0.3.10
+# easyocr>=1.7.0  # Optional: deep-learning OCR backend (requires PyTorch)

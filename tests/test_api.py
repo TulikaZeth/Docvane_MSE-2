@@ -104,3 +104,38 @@ def test_monitoring_endpoint():
     assert data["status"] == "operational"
     assert "statistics" in data
     assert "drift_report" in data
+
+
+def test_predict_scanned_pdf_file_upload(tmp_path):
+    """Verify POST /predict extracts text and classifies a scanned/image PDF via OCR fallback."""
+    import io
+    import pymupdf as fitz
+    from PIL import Image, ImageDraw
+    from src.data.extraction import find_tesseract_binary
+
+    if not find_tesseract_binary():
+        pytest.skip("Tesseract OCR binary not found")
+
+    img = Image.new("RGB", (800, 300), color=(255, 255, 255))
+    draw = ImageDraw.Draw(img)
+    draw.text((30, 80), "Tax Invoice: INV-9902 | Total Amount: $4,500.00 | Date: 12/10/2026", fill=(0, 0, 0))
+    buf = io.BytesIO()
+    img.save(buf, format="PNG")
+
+    doc = fitz.open()
+    page = doc.new_page(width=800, height=300)
+    page.insert_image(page.rect, stream=buf.getvalue())
+    pdf_path = tmp_path / "scanned_invoice.pdf"
+    doc.save(str(pdf_path))
+    doc.close()
+
+    with open(pdf_path, "rb") as f:
+        response = client.post(
+            "/predict?ocr_fallback=true",
+            files={"file": ("scanned_invoice.pdf", f, "application/pdf")},
+        )
+    assert response.status_code == 200
+    data = response.json()
+    assert data["success"] is True
+    assert "category" in data["data"]
+    assert "confidence" in data["data"]
